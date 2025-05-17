@@ -80,7 +80,7 @@
     "col1": "Bảo tàng Tôn Đức Thắng",
     "col2": "-",
     "col3": "Hồ Chí Minh",
-    "col4": "Xây dựng",
+    "col4": "Phá hủy",
     "content": "TBC"
   },
   {
@@ -273,24 +273,31 @@
     "content": "TBC"
   },
   {
-    "col1": "Chợ Đà Lạt ( Mới)",
+    "col1": "Khu Hòa Bình - Chợ Đà Lạt (Mới) - Toàn nhà chính",
     "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
+    "col3": "Đà Lạt",
+    "col4": "Xây dựng/Xuống cấp",
     "content": "TBC"
   },
   {
-    "col1": "Chợ Đà Lạt (Cũ)",
+    "col1": "Khu Hòa Bình - Chợ Đà Lạt (Cũ)",
     "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
+    "col3": "Đà Lạt",
+    "col4": "Xây dựng/Xuống cấp",
     "content": "TBC"
   },
   {
-    "col1": "Chợ Đà Lạt (Mới) mở rộng",
+    "col1": "Khu Hòa Bình - Chợ Đà Lạt (Mới) - Phần mở rộng",
     "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
+    "col3": "Đà Lạt",
+    "col4": "Xây dựng/Xuống cấp",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khu Hòa Bình - Chợ Đà Lạt (Mới) - Ki-ốt bán hàng",
+    "col2": "-",
+    "col3": "Đà Lạt",
+    "col4": "Phá hủy",
     "content": "TBC"
   },
   {
@@ -331,8 +338,8 @@
   {
     "col1": "Chợ xóm chiếu",
     "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
+    "col3": "Hồ Chí Minh",
+    "col4": "Xây dựng/Biến đổi",
     "content": "TBC"
   },
   {
@@ -857,7 +864,7 @@
     "col1": "Lăng Chủ Tịch",
     "col2": "-",
     "col3": "-",
-    "col4": "Xây dựng",
+    "col4": "Xây dựng/Nguyên bản",
     "content": "TBC"
   },
   {
@@ -870,29 +877,22 @@
   {
     "col1": "Lễ đài Ba Đình 1955",
     "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
+    "col3": "Hà Nội",
+    "col4": "Phá hủy",
     "content": "TBC"
   },
   {
     "col1": "Lễ đài Ba Đình 1960",
     "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Lịch sử kiến trúc Việt Nam",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
+    "col3": "Hà Nội",
+    "col4": "Phá hủy",
     "content": "TBC"
   },
   {
     "col1": "Lữ quán thanh niên",
     "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
+    "col3": "Đà Lạt",
+    "col4": "Phá hủy",
     "content": "TBC"
   },
   {
@@ -975,8 +975,8 @@
   {
     "col1": "Nhà hàng Thủy Tạ",
     "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
+    "col3": "Hà Nội",
+    "col4": "Xây dựng/Biến đổi",
     "content": "TBC"
   },
   {
@@ -1045,8 +1045,8 @@
   {
     "col1": "Nhà máy xử lý nước Thủ Đức",
     "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
+    "col3": "Hồ Chí Minh",
+    "col4": "Xây dựng/Gần nguyên bản",
     "content": "TBC"
   },
   {
@@ -1087,8 +1087,8 @@
   {
     "col1": "Nhà sàn Bác Hồ",
     "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
+    "col3": "Hà Nội",
+    "col4": "Xây dựng/Gần nguyên bản",
     "content": "TBC"
   },
   {
@@ -1122,8 +1122,8 @@
   {
     "col1": "Nhà thờ Phủ Cam",
     "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
+    "col3": "Đà Lạt",
+    "col4": "Xây dựng/Gần nguyên bản",
     "content": "TBC"
   },
   {
@@ -1136,8 +1136,8 @@
   {
     "col1": "Nhà Trăm Mái",
     "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
+    "col3": "Đà Lạt",
+    "col4": "Phá hủy",
     "content": "TBC"
   },
   {
@@ -1164,8 +1164,8 @@
   {
     "col1": "Nhà U trường Đại học kiến trúc Hà nội",
     "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
+    "col3": "Hà Nội",
+    "col4": "Phá hủy",
     "content": "TBC"
   },
   {
