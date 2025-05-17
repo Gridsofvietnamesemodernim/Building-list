@@ -59,7 +59,7 @@
     "col1": "Bảo tàng Louis Finot (Bảo tàng lịch sử quốc gia)",
     "col2": "-",
     "col3": "Hà Nội",
-    "col4": "Xây dựng",
+    "col4": "Xây dựng/Gần nguyên bản",
     "content": "TBC"
   },
   {
@@ -733,6 +733,13 @@
     "col3": "-",
     "col4": "Xây dựng",
     "content": "TBC"
+  },
+  {
+    "col1": "Khách sạn Modern - Mộng Đẹp",
+    "col2": "???",
+    "col3": "Đà Lạt",
+    "col4": "Xây dựng/Biến đổi",
+    "content": "<div class='building-content'><p>Xây dựng: ??? KTS: ???</p><img src='https://freight.cargo.site/t/original/i/341f13f7ffa633dc66622860779691c479a5a2d77a50fa720d3628a72cf79393/54524825_2250778784989469_7228836469232631808_n.jpg' alt='Modern Hotel'></div>"
   },
   {
     "col1": "Khách sạn Phương Đông",
@@ -1614,7 +1621,7 @@
     "col2": "1986",
     "col3": "Hà Nội",
     "col4": "Phá hủy",
-    "content": "<div class='building-content'><p>The Rex Hotel was built in 1927...</p><img src='https://freight.cargo.site/t/original/i/341f13f7ffa633dc66622860779691c479a5a2d77a50fa720d3628a72cf79393/54524825_2250778784989469_7228836469232631808_n.jpg' alt='Rex Hotel'></div>"
+    "content": "TBC"
   },
   {
     "col1": "Ủy ban nhân dân thành phố Hà Nội - Cổng Trần Nguyên Hãn",
