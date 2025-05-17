@@ -9,7 +9,7 @@
   {
     "col1": "Ủy ban nhân dân thành phố Hà Nội - Công trình chính",
     "col2": "1986",
-    "col3": "Hải Phòng",
+    "col3": "Hà Nội",
     "col4": "Xây dựng",
     "content": "TBC"
   },
@@ -17,6 +17,1777 @@
     "col1": "Ủy ban nhân dân thành phố Hà Nội - Cổng Trần Nguyên Hãn",
     "col2": "1990",
     "col3": "Hà Nội",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bảo tàng Hùng Vương",
+    "col2": "-",
+    "col3": "Phú Thọ",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bảo tàng Bạch Đằng Quảng Ninh",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bảo tàng biên phòng",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bảo tàng cổ vật Nam Định",
+    "col2": "-",
+    "col3": "Nam Định",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bảo tàng dân tộc học",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bảo tàng địa chất Việt Nam",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bảo tàng Hồ Chí Minh",
+    "col2": "-",
+    "col3": "Hà Nội",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bảo Tàng Kim Liên",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bảo tàng Louis Finot (Bảo tàng lịch sử quốc gia)",
+    "col2": "-",
+    "col3": "Hà Nội",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bảo tàng Phòng không Hà Nội",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bảo tàng phụ nữ miền Nam",
+    "col2": "-",
+    "col3": "Hồ Chí Minh",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bảo tàng Tôn Đức Thắng",
+    "col2": "-",
+    "col3": "Hồ Chí Minh",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bảo tàng văn hóa Hòa Bình",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bảo Tàng Việt Bắc",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bảo tàng Võ Nhai",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bệnh viện 167 Phùng Hưng",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bệnh viện 198 Hà Nội",
+    "col2": "-",
+    "col3": "Hà Nội",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bệnh Viện 500 giường Thanh Nhàn",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bệnh viện An Bình",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bệnh viện hữu nghị Việt Nam - Cu Ba",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bệnh Viện Hữu Nghị Việt Nam- Cu Ba (Quảng Bình)",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bệnh viện mắt Trung Ương",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bệnh Viện Nguyễn Văn Học",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bệnh viện quốc tế Hà Nội",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bệnh viện Rene Robin",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bệnh viện Vì Dân",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bình minh trang",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bưu điện Bà Rịa Vũng Tàu",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bưu Điện Quảng Ninh",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bưu điện thành phố Hà Nội",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Cải tạo Bách hóa tổng hợp",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Cải tạo chợ Bến Thành",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Cải tạo ga Hàng Cỏ",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Cải tạo khách sạn Dân Chủ",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Cải tạo mặt đứng Cinema Palace",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Câu lạc bộ Ba Đình",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Cầu Thăng Long",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Chỉnh sửa rạp Eden Tràng Tiền",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Chợ An Đông",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Chợ Bà Chiểu",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Chợ Bến Thành (Đồ án)",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Chợ Đà Lạt ( Mới)",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Chợ Đà Lạt (Cũ)",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Chợ Đà Lạt (Mới) mở rộng",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Chợ Đầm Nha Trang",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Chợ Đông Ba (Mới)",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Chợ Đông Hà",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Chợ Hôm Đức Viên",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Chợ Móng Cái Quảng Ninh",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Chợ xóm chiếu",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Chùa Bà Chúa Xứ Châu Đốc",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Chùa Cổ Lâm Quảng Nam",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Chùa một cột Sài Gòn",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Chùa Phổ Quang",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Chùa Quán Sứ",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Chùa Vĩnh Nghiêm",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Chùa Xá Lợi",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Chung cư 12 Võ Văn Kiệt",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Công Viên Thống Nhất",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Crazy House",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Cư xá 14-22 Lý Chính Thắng",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Cư Xá Lam Sơn",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Cư xá Nguyễn Văn Trỗi",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Cư xá Thanh Đa",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Cửa khẩu quốc tế Móng Cái",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Cung thiếu nhi Hà Nội",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Cung Văn hóa Hữu Nghị Việt Xô",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Đại học Huế",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Đại học kiến trúc Hồ Chí Minh (Công trình)",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Đại học Nông – Lâm – Súc",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Đại học Sài Gòn",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Đại học Thương Nghiệp",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Đài phát thanh truyền hình Hà Nội",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Đại sứ quán Việt Nam (Paris)",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Đài Tiếng nói nhân dân TP.HCM",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Đài Tổ quốc ghi công",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Đài tưởng niệm liệt sĩ Bắc Sơn",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Đài tưởng niệm liệt sĩ tỉnh Bắc Ninh",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Đài tưởng niệm liệt sĩ Tuyên Quang",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Đài tưởng niệm Núi Nhạn",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Đầm ếch La Grenouilere",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Đền thờ Bác Hồ ở Pác Bó",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Đền thờ Trần Hưng Đạo",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Dinh Độc Lập",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Ga T1 sân bay Nội Bài",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Giảng đường 400 chỗ trường Nguyễn Ái Quốc",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Giảng đường Đại học Cần Thơ",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Giáo Hoàng Học Viện Thánh Pio X",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Học viện thủy lợi",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Hội chợ Đà Lạt",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Hội quán thông thiên học Việt Nam",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Hội trường B Đại học đại cương",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Hội trường Ba Đình",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Hội trường Rùa",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Hội trường tỉnh ủy Cần Thơ",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Hội trường trung cập Thương Nghiệp Mai Dịch",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khách sạn Bạch Đằng",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khách sạn Caravelle",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khách sạn Crystal Palace",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khách sạn Đồ Sơn Bộ Xây Dựng",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khách sạn Hải Phòng",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khách Sạn Hương Giang I",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khách sạn Hương Giang II",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khách sạn Lang Biang",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khách Sạn Lê Lợi",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khách sạn Ngọc Mỹ",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khách sạn Phương Đông",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khách sạn Rex",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khách sạn T.78",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khách sạn Thắng Lợi",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khách sạn Thùy Dương Vũng Tàu",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khoa Pháp Đại học Quốc Gia Việt Nam",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Không gian Alibaba",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khu lưu niệm Thủ tướng Võ Văn Kiệt",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khu Ngoại giao đoàn Vạn Phúc",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khu nhà ở Kim Liên",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khu nhà ở ngoại giao đoàn Vạn Phúc II",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khu nhà ở Nguyễn Công Trứ",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khu nhà ở tấm lớn Thanh Xuân Bắc",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Khu văn công quân đội Mai Dịch",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Kiến trúc Những vấn đề lý luận và thực tiễn",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "KS Saigon Lodge",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "KTT Giảng Võ",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Kỹ nghệ súc sản Vissan",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Lăng Chủ Tịch",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Lăng mộ vua Mohammed V",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Lễ đài Ba Đình 1955",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Lễ đài Ba Đình 1960",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Lịch sử kiến trúc Việt Nam",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Lữ quán thanh niên",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Miếu bà chúa xứ",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Ngân hàng Đông Dương",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Ngân hàng Đông Dương Hà Nội",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Ngân hàng Việt Nam Thương Tín",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nghĩa trang liệt sĩ Đà Lạt",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nghĩa trang liệt sĩ Móng Cái",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nghĩa trang quốc gia Đông Hà",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà Ánh Sáng",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà bảo tàng tỉnh Hải Hưng",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà biểu diễn 700 chỗ Cung thiếu nhi Đà Lạt",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà C2 Khu nhà ở  Phương Liệt",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà hàng bánh tôm Hồ Tây",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà hàng Thủy Tạ",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà hát chèo Hà Nội",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà hát Tân Phú Đồng Nai (Đồ án)",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà hát Trưng Vương Đà Nẵng",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà họp Hội Đồng Chính Phủ",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà khách bộ ngoại giao",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà khách chính phủ Lê Thạch",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà làm việc công ty Điện Lực I",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà luyện tập và thi đấu TDTT Khánh Hòa",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà máy dệt Vinatexco (Thắng Lợi)",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà máy xử lý nước Thủ Đức",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà nghỉ Công đoàn Bãi Cháy",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà nghỉ Công đoàn Đồ sơn",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà nghỉ Công đoàn Hạ Long",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà nghỉ Hồ Núi Cốc",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà ở cho cộng đồng văn hóa thủy cư Bồ Lô",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà sàn Bác Hồ",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà thi đấu Nguyễn Tri Phương Đà Nẵng",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà thi đấu và luyện tập thể dục thể thao Hà Nội",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà thờ Cửa Bắc",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà thờ giáo xứ Liên Khương",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà thờ Phủ Cam",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà thờ tin lành",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà Trăm Mái",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà trẻ Anh Đào",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà triển lãm mỹ thuật 16 Ngô Quyền",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà truyền thống Quân Đội Gia Lai",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà U trường Đại học kiến trúc Hà nội",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà văn hóa công nhân mỏ Quảng Ninh",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà văn hoá lao động Liên Xô (Đồ án)",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhà văn hóa Lao động Thanh Hóa",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nhiệt điện Phả Lại",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Nội San Kiến Trúc",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Quần thể nhà an dưỡng Sầm Sơn Thanh Hóa",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Quần thể nhà ở Nhiệt Điện Hòa Bình",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Quy hoạch Đà Lạt",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Quy hoạch Đà Lạt 1932-1933",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Quy hoạch Hà Nội 1924",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Quy hoạch Hà Nội 1934 (Đồ Án)",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Quy hoạch Hà Nội 1959",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Quy hoạch Hà Nội 1978",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Quy hoạch Hồ Gươm",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Quy hoạch học viện kỹ thuật quân sự 1960s",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Quy hoạch khu trung tâm Hà Nội",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Quy hoạch Phnom Penh",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Quy hoạch Phnom Penh 1933",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Quy hoạch Quảng trường Ba Đình",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Quy hoạch Sài Gòn",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Quy hoạch Vientiane 1935",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Rạp chiếu phim Trần Hưng Đạo (Huế)",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Rạp Công Nhân cải tạo",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Salesian Don Bosco Đà Lạt",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Sân bay Nội Bài",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Sân vận động Thái Nguyên (cũ)",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Sáng dội miền Nam",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Sở chỉ huy quân sự tỉnh Đắc Lắc",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Thư viện Quốc Gia Sài Gòn",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Tiểu  khu Bách Khoa",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Tòa nhà công ty đường Khánh Hội",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Tòa nhà hải quân quốc gia",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Tòa nhà Hàm Cá Mập",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Tòa nhà VAR",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Toàn nhà PTT",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Tồn tại hay không tồn tại",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Tổng lãnh sự quán Anh",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Tổng lãnh sự quán Thái Lan",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Tổng nha kiến thiết Sài Gòn (công trình)",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trụ sở Bộ GTVT Đường Trần Hưng Đạo",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trụ sở công ty dược Thái Nguyên",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trụ sở Đài Tiếng nói Việt Nam",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trụ sở Hàng không Việt Nam (Sài Gòn)",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trụ sở liên cơ quan Vân Hồ",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trụ sở Ngân hàng Bắc Thái",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trụ Sở nhà xuất bản Lao Động",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trụ sở Quốc Hội",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trụ sở Radio Sài Gòn",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trụ sở Sở Công An Trà Vinh",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trụ sở Tổng Công Ty Thép Đường Láng Hạ",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trụ sở tổng cục thống kê",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trụ sở UBND tỉnh Lạng Sơn",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trụ sở ủy ban hành chính tỉnh Nghĩa Lộ",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trụ sở Viện Hóa học",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trụ sở Viện Tâm thần Trung Ương",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trụ sở Viện Toán học",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trung cấp Kiến trúc - Học Viện Thủy Lợi",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trung học Ernst Thalmann",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trung hoc kiểu mẫu Thủ Đức",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trung tâm Giáo dục Y Khoa – Đại học Y Khoa Sài Gòn",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trung tâm hội nghị quốc tế",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trung tâm nghệ thuật quốc gia Indira Ghandhi",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trung tâm nghiên cứu nguyên tử Đà Lạt",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trung tâm thiết kế bộ đại học và THCN",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trường đại học mỹ thuật công nghiệp Hà Nội",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trường Đại học Sư Phạm Huế",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trường Đảng Nguyễn Ái Quốc",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trường dạy nghề Đà Nẵng",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trường dạy tiếng Anh Hội Việt Mỹ đường Mạc Đĩnh Chi",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trường trung cấp Lasan Mossard",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trường trung học Kỹ Thuật Quy Nhơn",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trường trung học kỹ thuật Vĩnh Long",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trường trung học Sư phạm Quy Nhơn",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trường văn hóa nghệ thuật Quảng Ninh",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trường viết văn Nguyễn Du",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Tượng đài viện trợ quốc tế",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "UBND Quận Đống Đa",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Ủy ban nhân dân thành phố Hà Nội",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Văn phòng Diethelm & Cie",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Văn phòng Thượng viện đường Nam Kỳ Khởi Nghĩa",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Viện đại học Vạn Hạnh",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Vườn hoa Lenin",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Trường tư thục Lê Quý Đôn",
+    "col2": "-",
+    "col3": "-",
     "col4": "Xây dựng",
     "content": "TBC"
   }
