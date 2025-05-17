@@ -1,33 +1,5 @@
 [
   {
-    "col1": "Ủy ban nhân dân thành phố Hà Nội - Cánh trái",
-    "col2": "1986",
-    "col3": "Hà Nội",
-    "col4": "Phá hủy",
-    "content": "<div class='building-content'><p>The Rex Hotel was built in 1927...</p><img src='https://freight.cargo.site/t/original/i/341f13f7ffa633dc66622860779691c479a5a2d77a50fa720d3628a72cf79393/54524825_2250778784989469_7228836469232631808_n.jpg' alt='Rex Hotel'></div>"
-  },
-  {
-    "col1": "Ủy ban nhân dân thành phố Hà Nội - Công trình chính",
-    "col2": "1986",
-    "col3": "Hà Nội",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Ủy ban nhân dân thành phố Hà Nội - Cổng Trần Nguyên Hãn",
-    "col2": "1990",
-    "col3": "Hà Nội",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bảo tàng Hùng Vương",
-    "col2": "-",
-    "col3": "Phú Thọ",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
     "col1": "Bảo tàng Bạch Đằng Quảng Ninh",
     "col2": "-",
     "col3": "-",
@@ -66,6 +38,13 @@
     "col1": "Bảo tàng Hồ Chí Minh",
     "col2": "-",
     "col3": "Hà Nội",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Bảo tàng Hùng Vương",
+    "col2": "-",
+    "col3": "Phú Thọ",
     "col4": "Xây dựng",
     "content": "TBC"
   },
@@ -259,13 +238,6 @@
     "content": "TBC"
   },
   {
-    "col1": "Cinema palace",
-    "col2": "-",
-    "col3": "Hà Nội",
-    "col4": "Phá hủy",
-    "content": "TBC"
-  },
-  {
     "col1": "Câu lạc bộ Ba Đình",
     "col2": "-",
     "col3": "-",
@@ -277,13 +249,6 @@
     "col2": "-",
     "col3": "-",
     "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Rạp Eden Tràng Tiền",
-    "col2": "-",
-    "col3": "Hà Nội",
-    "col4": "Phá hủy",
     "content": "TBC"
   },
   {
@@ -424,6 +389,13 @@
     "col2": "-",
     "col3": "-",
     "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Cinema palace",
+    "col2": "-",
+    "col3": "Hà Nội",
+    "col4": "Phá hủy",
     "content": "TBC"
   },
   {
@@ -868,13 +840,6 @@
     "content": "TBC"
   },
   {
-    "col1": "Quần thể KTT Giảng Võ - Khách sạn Hà Nội",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng/Biến dạng",
-    "content": "TBC"
-  },
-  {
     "col1": "Kỹ nghệ súc sản Vissan",
     "col2": "-",
     "col3": "-",
@@ -1225,6 +1190,13 @@
     "content": "TBC"
   },
   {
+    "col1": "Quần thể KTT Giảng Võ - Khách sạn Hà Nội",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng/Biến dạng",
+    "content": "TBC"
+  },
+  {
     "col1": "Quần thể nhà an dưỡng Sầm Sơn Thanh Hóa",
     "col2": "-",
     "col3": "-",
@@ -1250,6 +1222,13 @@
     "col2": "-",
     "col3": "-",
     "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Rạp Eden Tràng Tiền",
+    "col2": "-",
+    "col3": "Hà Nội",
+    "col4": "Phá hủy",
     "content": "TBC"
   },
   {
@@ -1589,6 +1568,13 @@
     "content": "TBC"
   },
   {
+    "col1": "Trường tư thục Lê Quý Đôn",
+    "col2": "-",
+    "col3": "-",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
     "col1": "Trường văn hóa nghệ thuật Quảng Ninh",
     "col2": "-",
     "col3": "-",
@@ -1624,6 +1610,27 @@
     "content": "TBC"
   },
   {
+    "col1": "Ủy ban nhân dân thành phố Hà Nội - Cánh trái",
+    "col2": "1986",
+    "col3": "Hà Nội",
+    "col4": "Phá hủy",
+    "content": "<div class='building-content'><p>The Rex Hotel was built in 1927...</p><img src='https://freight.cargo.site/t/original/i/341f13f7ffa633dc66622860779691c479a5a2d77a50fa720d3628a72cf79393/54524825_2250778784989469_7228836469232631808_n.jpg' alt='Rex Hotel'></div>"
+  },
+  {
+    "col1": "Ủy ban nhân dân thành phố Hà Nội - Cổng Trần Nguyên Hãn",
+    "col2": "1990",
+    "col3": "Hà Nội",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
+    "col1": "Ủy ban nhân dân thành phố Hà Nội - Công trình chính",
+    "col2": "1986",
+    "col3": "Hà Nội",
+    "col4": "Xây dựng",
+    "content": "TBC"
+  },
+  {
     "col1": "Văn phòng Diethelm & Cie",
     "col2": "-",
     "col3": "-",
@@ -1646,13 +1653,6 @@
   },
   {
     "col1": "Vườn hoa Lenin",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trường tư thục Lê Quý Đôn",
     "col2": "-",
     "col3": "-",
     "col4": "Xây dựng",
