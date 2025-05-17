@@ -4,7 +4,7 @@
     "col2": "1986",
     "col3": "Hà Nội",
     "col4": "Đã phá hủy",
-    "content": "<div class=\"\"building-details\"\"><div class=\"\"image-container\"\">{% image \"\"54524825_2250778784989469_7228836469232631808_n.jpg\"\" %}<p>Your building description goes here</p></div>"
+    "content": "<div class=\"\"building-details\"\"><div class=\"\"image-container\"\">{%image \"\"54524825_2250778784989469_7228836469232631808_n.jpg\"\"%}<p>Your building description goes here</p></div>"
   },
   {
     "col1": "Ủy ban nhân dân thành phố Hà Nội - Công trình chính",
