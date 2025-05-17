@@ -3,7 +3,7 @@
     "col1": "Ủy ban nhân dân thành phố Hà Nội - Cánh trái",
     "col2": "1986",
     "col3": "Hà Nội",
-    "col4": "Đã phá hủy",
+    "col4": "Phá hủy",
     "content": "<div class='building-content'><p>The Rex Hotel was built in 1927...</p><img src='https://freight.cargo.site/t/original/i/341f13f7ffa633dc66622860779691c479a5a2d77a50fa720d3628a72cf79393/54524825_2250778784989469_7228836469232631808_n.jpg' alt='Rex Hotel'></div>"
   },
   {
@@ -262,7 +262,7 @@
     "col1": "Cinema palace",
     "col2": "-",
     "col3": "Hà Nội",
-    "col4": "Đã phá hủy",
+    "col4": "Phá hủy",
     "content": "TBC"
   },
   {
@@ -283,13 +283,13 @@
     "col1": "Rạp Eden Tràng Tiền",
     "col2": "-",
     "col3": "Hà Nội",
-    "col4": "Đã phá hủy",
+    "col4": "Phá hủy",
     "content": "TBC"
   },
   {
     "col1": "Chợ An Đông",
     "col2": "-",
-    "col3": "-",
+    "col3": "Hồ Chí Minh",
     "col4": "Xây dựng",
     "content": "TBC"
   },
@@ -479,7 +479,7 @@
     "col1": "Cung thiếu nhi Hà Nội",
     "col2": "-",
     "col3": "-",
-    "col4": "Xây dựng",
+    "col4": "Xây dựng/Biến đổi",
     "content": "TBC"
   },
   {
@@ -584,7 +584,7 @@
     "col1": "Đầm ếch La Grenouilere",
     "col2": "-",
     "col3": "-",
-    "col4": "Xây dựng",
+    "col4": "Xây dựng/Gần nguyên bản",
     "content": "TBC"
   },
   {
@@ -805,13 +805,6 @@
     "content": "TBC"
   },
   {
-    "col1": "Không gian Alibaba",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
     "col1": "Khu lưu niệm Thủ tướng Võ Văn Kiệt",
     "col2": "-",
     "col3": "-",
@@ -878,7 +871,7 @@
     "col1": "Quần thể KTT Giảng Võ - Khách sạn Hà Nội",
     "col2": "-",
     "col3": "-",
-    "col4": "Đã cải tạo",
+    "col4": "Xây dựng/Biến dạng",
     "content": "TBC"
   },
   {
@@ -974,13 +967,6 @@
   },
   {
     "col1": "Nghĩa trang quốc gia Đông Hà",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà Ánh Sáng",
     "col2": "-",
     "col3": "-",
     "col4": "Xây dựng",
@@ -1239,13 +1225,6 @@
     "content": "TBC"
   },
   {
-    "col1": "Nội San Kiến Trúc",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
     "col1": "Quần thể nhà an dưỡng Sầm Sơn Thanh Hóa",
     "col2": "-",
     "col3": "-",
@@ -1254,104 +1233,6 @@
   },
   {
     "col1": "Quần thể nhà ở Nhiệt Điện Hòa Bình",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Quy hoạch Đà Lạt",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Quy hoạch Đà Lạt 1932-1933",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Quy hoạch Hà Nội 1924",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Quy hoạch Hà Nội 1934 (Đồ Án)",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Quy hoạch Hà Nội 1959",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Quy hoạch Hà Nội 1978",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Quy hoạch Hồ Gươm",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Quy hoạch học viện kỹ thuật quân sự 1960s",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Quy hoạch khu trung tâm Hà Nội",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Quy hoạch Phnom Penh",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Quy hoạch Phnom Penh 1933",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Quy hoạch Quảng trường Ba Đình",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Quy hoạch Sài Gòn",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Quy hoạch Vientiane 1935",
     "col2": "-",
     "col3": "-",
     "col4": "Xây dựng",
@@ -1393,13 +1274,6 @@
     "content": "TBC"
   },
   {
-    "col1": "Sáng dội miền Nam",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
     "col1": "Sở chỉ huy quân sự tỉnh Đắc Lắc",
     "col2": "-",
     "col3": "-",
@@ -1410,7 +1284,7 @@
     "col1": "Thư viện Quốc Gia Sài Gòn",
     "col2": "-",
     "col3": "-",
-    "col4": "Xây dựng",
+    "col4": "Xây dựng/Gần nguyên bản",
     "content": "TBC"
   },
   {
@@ -1438,25 +1312,18 @@
     "col1": "Tòa nhà Hàm Cá Mập",
     "col2": "-",
     "col3": "-",
-    "col4": "Xây dựng",
+    "col4": "Xây dựng/Sắp phá hủy",
     "content": "TBC"
   },
   {
     "col1": "Tòa nhà VAR",
     "col2": "-",
     "col3": "-",
-    "col4": "Xây dựng",
+    "col4": "Xây dựng/Xuống cấp",
     "content": "TBC"
   },
   {
     "col1": "Toàn nhà PTT",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Tồn tại hay không tồn tại",
     "col2": "-",
     "col3": "-",
     "col4": "Xây dựng",
