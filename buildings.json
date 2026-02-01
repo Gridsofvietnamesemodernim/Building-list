@@ -1,1668 +1,283 @@
-[
-  {
-    "col1": "Bảo tàng Bạch Đằng Quảng Ninh",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bảo tàng biên phòng",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bảo tàng cổ vật Nam Định",
-    "col2": "-",
-    "col3": "Nam Định",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bảo tàng dân tộc học",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bảo tàng địa chất Việt Nam",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bảo tàng Hồ Chí Minh",
-    "col2": "-",
-    "col3": "Hà Nội",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bảo tàng Hùng Vương",
-    "col2": "-",
-    "col3": "Phú Thọ",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bảo Tàng Kim Liên",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bảo tàng Louis Finot (Bảo tàng lịch sử quốc gia)",
-    "col2": "-",
-    "col3": "Hà Nội",
-    "col4": "Xây dựng/Gần nguyên bản",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bảo tàng Phòng không Hà Nội",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bảo tàng phụ nữ miền Nam",
-    "col2": "-",
-    "col3": "Hồ Chí Minh",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bảo tàng Tôn Đức Thắng",
-    "col2": "-",
-    "col3": "Hồ Chí Minh",
-    "col4": "Phá hủy",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bảo tàng văn hóa Hòa Bình",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bảo Tàng Việt Bắc",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bảo tàng Võ Nhai",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bệnh viện 167 Phùng Hưng",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bệnh viện 198 Hà Nội",
-    "col2": "-",
-    "col3": "Hà Nội",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bệnh Viện 500 giường Thanh Nhàn",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bệnh viện An Bình",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bệnh viện hữu nghị Việt Nam - Cu Ba",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bệnh Viện Hữu Nghị Việt Nam- Cu Ba (Quảng Bình)",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bệnh viện mắt Trung Ương",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bệnh Viện Nguyễn Văn Học",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bệnh viện quốc tế Hà Nội",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bệnh viện Rene Robin",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bệnh viện Vì Dân",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bình minh trang",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bưu điện Bà Rịa Vũng Tàu",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bưu Điện Quảng Ninh",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Bưu điện thành phố Hà Nội",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Cải tạo Bách hóa tổng hợp",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Cải tạo chợ Bến Thành",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Cải tạo ga Hàng Cỏ",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Cải tạo khách sạn Dân Chủ",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Câu lạc bộ Ba Đình",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Cầu Thăng Long",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Chợ An Đông",
-    "col2": "-",
-    "col3": "Hồ Chí Minh",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Chợ Bà Chiểu",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Chợ Bến Thành (Đồ án)",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khu Hòa Bình - Chợ Đà Lạt (Mới) - Toàn nhà chính",
-    "col2": "-",
-    "col3": "Đà Lạt",
-    "col4": "Xây dựng/Xuống cấp",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khu Hòa Bình - Chợ Đà Lạt (Cũ)",
-    "col2": "-",
-    "col3": "Đà Lạt",
-    "col4": "Xây dựng/Xuống cấp",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khu Hòa Bình - Chợ Đà Lạt (Mới) - Phần mở rộng",
-    "col2": "-",
-    "col3": "Đà Lạt",
-    "col4": "Xây dựng/Xuống cấp",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khu Hòa Bình - Chợ Đà Lạt (Mới) - Ki-ốt bán hàng",
-    "col2": "-",
-    "col3": "Đà Lạt",
-    "col4": "Phá hủy",
-    "content": "TBC"
-  },
-  {
-    "col1": "Chợ Đầm Nha Trang",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Chợ Đông Ba (Mới)",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Chợ Đông Hà",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Chợ Hôm Đức Viên",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Chợ Móng Cái Quảng Ninh",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Chợ xóm chiếu",
-    "col2": "-",
-    "col3": "Hồ Chí Minh",
-    "col4": "Xây dựng/Biến đổi",
-    "content": "TBC"
-  },
-  {
-    "col1": "Chùa Bà Chúa Xứ Châu Đốc",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Chùa Cổ Lâm Quảng Nam",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Chùa một cột Sài Gòn",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Chùa Phổ Quang",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Chùa Quán Sứ",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Chùa Vĩnh Nghiêm",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Chùa Xá Lợi",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Chung cư 12 Võ Văn Kiệt",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Cinema palace",
-    "col2": "-",
-    "col3": "Hà Nội",
-    "col4": "Phá hủy",
-    "content": "TBC"
-  },
-  {
-    "col1": "Công Viên Thống Nhất",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Crazy House",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Cư xá 14-22 Lý Chính Thắng",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Cư Xá Lam Sơn",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Cư xá Nguyễn Văn Trỗi",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Cư xá Thanh Đa",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Cửa khẩu quốc tế Móng Cái",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Cung thiếu nhi Hà Nội",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng/Biến đổi",
-    "content": "TBC"
-  },
-  {
-    "col1": "Cung Văn hóa Hữu Nghị Việt Xô",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Đại học Huế",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Đại học kiến trúc Hồ Chí Minh (Công trình)",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Đại học Nông – Lâm – Súc",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Đại học Sài Gòn",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Đại học Thương Nghiệp",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Đài phát thanh truyền hình Hà Nội",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Đại sứ quán Việt Nam (Paris)",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Đài Tiếng nói nhân dân TP.HCM",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Đài Tổ quốc ghi công",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Đài tưởng niệm liệt sĩ Bắc Sơn",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Đài tưởng niệm liệt sĩ tỉnh Bắc Ninh",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Đài tưởng niệm liệt sĩ Tuyên Quang",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Đài tưởng niệm Núi Nhạn",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Đầm ếch La Grenouilere",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng/Gần nguyên bản",
-    "content": "TBC"
-  },
-  {
-    "col1": "Đền thờ Bác Hồ ở Pác Bó",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Đền thờ Trần Hưng Đạo",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Dinh Độc Lập",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Ga T1 sân bay Nội Bài",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Giảng đường 400 chỗ trường Nguyễn Ái Quốc",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Giảng đường Đại học Cần Thơ",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Giáo Hoàng Học Viện Thánh Pio X",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Học viện thủy lợi",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Hội chợ Đà Lạt",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Hội quán thông thiên học Việt Nam",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Hội trường B Đại học đại cương",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Hội trường Ba Đình",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Hội trường Rùa",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Hội trường tỉnh ủy Cần Thơ",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Hội trường trung cập Thương Nghiệp Mai Dịch",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khách sạn Bạch Đằng",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khách sạn Caravelle",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khách sạn Crystal Palace",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khách sạn Đồ Sơn Bộ Xây Dựng",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khách sạn Hải Phòng",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khách Sạn Hương Giang I",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khách sạn Hương Giang II",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khách sạn Lang Biang",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khách Sạn Lê Lợi",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khách sạn Ngọc Mỹ",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khách sạn Modern - Mộng Đẹp",
-    "col2": "???",
-    "col3": "Đà Lạt",
-    "col4": "Xây dựng/Biến đổi",
-    "content": "<div class='building-content'><p>Xây dựng: ??? KTS: ???</p><img src='https://freight.cargo.site/t/original/i/341f13f7ffa633dc66622860779691c479a5a2d77a50fa720d3628a72cf79393/54524825_2250778784989469_7228836469232631808_n.jpg' alt='Modern Hotel'></div>"
-  },
-  {
-    "col1": "Khách sạn Phương Đông",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khách sạn Rex",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khách sạn T.78",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khách sạn Thắng Lợi",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khách sạn Thùy Dương Vũng Tàu",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khoa Pháp Đại học Quốc Gia Việt Nam",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khu lưu niệm Thủ tướng Võ Văn Kiệt",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khu Ngoại giao đoàn Vạn Phúc",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khu nhà ở Kim Liên",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khu nhà ở ngoại giao đoàn Vạn Phúc II",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khu nhà ở Nguyễn Công Trứ",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khu nhà ở tấm lớn Thanh Xuân Bắc",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Khu văn công quân đội Mai Dịch",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Kiến trúc Những vấn đề lý luận và thực tiễn",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "KS Saigon Lodge",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Kỹ nghệ súc sản Vissan",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Lăng Chủ Tịch",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng/Nguyên bản",
-    "content": "TBC"
-  },
-  {
-    "col1": "Lăng mộ vua Mohammed V",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Lễ đài Ba Đình 1955",
-    "col2": "-",
-    "col3": "Hà Nội",
-    "col4": "Phá hủy",
-    "content": "TBC"
-  },
-  {
-    "col1": "Lễ đài Ba Đình 1960",
-    "col2": "-",
-    "col3": "Hà Nội",
-    "col4": "Phá hủy",
-    "content": "TBC"
-  },
-  {
-    "col1": "Lữ quán thanh niên",
-    "col2": "-",
-    "col3": "Đà Lạt",
-    "col4": "Phá hủy",
-    "content": "TBC"
-  },
-  {
-    "col1": "Miếu bà chúa xứ",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Ngân hàng Đông Dương",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Ngân hàng Đông Dương Hà Nội",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Ngân hàng Việt Nam Thương Tín",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nghĩa trang liệt sĩ Đà Lạt",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nghĩa trang liệt sĩ Móng Cái",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nghĩa trang quốc gia Đông Hà",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà bảo tàng tỉnh Hải Hưng",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà biểu diễn 700 chỗ Cung thiếu nhi Đà Lạt",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà C2 Khu nhà ở  Phương Liệt",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà hàng bánh tôm Hồ Tây",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà hàng Thủy Tạ",
-    "col2": "-",
-    "col3": "Hà Nội",
-    "col4": "Xây dựng/Biến đổi",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà hát chèo Hà Nội",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà hát Tân Phú Đồng Nai (Đồ án)",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà hát Trưng Vương Đà Nẵng",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà họp Hội Đồng Chính Phủ",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà khách bộ ngoại giao",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà khách chính phủ Lê Thạch",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà làm việc công ty Điện Lực I",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà luyện tập và thi đấu TDTT Khánh Hòa",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà máy dệt Vinatexco (Thắng Lợi)",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà máy xử lý nước Thủ Đức",
-    "col2": "-",
-    "col3": "Hồ Chí Minh",
-    "col4": "Xây dựng/Gần nguyên bản",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà nghỉ Công đoàn Bãi Cháy",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà nghỉ Công đoàn Đồ sơn",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà nghỉ Công đoàn Hạ Long",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà nghỉ Hồ Núi Cốc",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà ở cho cộng đồng văn hóa thủy cư Bồ Lô",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà sàn Bác Hồ",
-    "col2": "-",
-    "col3": "Hà Nội",
-    "col4": "Xây dựng/Gần nguyên bản",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà thi đấu Nguyễn Tri Phương Đà Nẵng",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà thi đấu và luyện tập thể dục thể thao Hà Nội",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà thờ Cửa Bắc",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà thờ giáo xứ Liên Khương",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà thờ Phủ Cam",
-    "col2": "-",
-    "col3": "Đà Lạt",
-    "col4": "Xây dựng/Gần nguyên bản",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà thờ tin lành",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà Trăm Mái",
-    "col2": "-",
-    "col3": "Đà Lạt",
-    "col4": "Phá hủy",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà trẻ Anh Đào",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà triển lãm mỹ thuật 16 Ngô Quyền",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà truyền thống Quân Đội Gia Lai",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà U trường Đại học kiến trúc Hà nội",
-    "col2": "-",
-    "col3": "Hà Nội",
-    "col4": "Phá hủy",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà văn hóa công nhân mỏ Quảng Ninh",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà văn hoá lao động Liên Xô (Đồ án)",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhà văn hóa Lao động Thanh Hóa",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Nhiệt điện Phả Lại",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Quần thể KTT Giảng Võ - Khách sạn Hà Nội",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng/Biến dạng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Quần thể nhà an dưỡng Sầm Sơn Thanh Hóa",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Quần thể nhà ở Nhiệt Điện Hòa Bình",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Rạp chiếu phim Trần Hưng Đạo (Huế)",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Rạp Công Nhân cải tạo",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Rạp Eden Tràng Tiền",
-    "col2": "-",
-    "col3": "Hà Nội",
-    "col4": "Phá hủy",
-    "content": "TBC"
-  },
-  {
-    "col1": "Salesian Don Bosco Đà Lạt",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Sân bay Nội Bài",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Sân vận động Thái Nguyên (cũ)",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Sở chỉ huy quân sự tỉnh Đắc Lắc",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Thư viện Quốc Gia Sài Gòn",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng/Gần nguyên bản",
-    "content": "TBC"
-  },
-  {
-    "col1": "Tiểu  khu Bách Khoa",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Tòa nhà công ty đường Khánh Hội",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Tòa nhà hải quân quốc gia",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Tòa nhà Hàm Cá Mập",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng/Sắp phá hủy",
-    "content": "TBC"
-  },
-  {
-    "col1": "Tòa nhà VAR",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng/Xuống cấp",
-    "content": "TBC"
-  },
-  {
-    "col1": "Toàn nhà PTT",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Tổng lãnh sự quán Anh",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Tổng lãnh sự quán Thái Lan",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Tổng nha kiến thiết Sài Gòn (công trình)",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trụ sở Bộ GTVT Đường Trần Hưng Đạo",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trụ sở công ty dược Thái Nguyên",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trụ sở Đài Tiếng nói Việt Nam",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trụ sở Hàng không Việt Nam (Sài Gòn)",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trụ sở liên cơ quan Vân Hồ",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trụ sở Ngân hàng Bắc Thái",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trụ Sở nhà xuất bản Lao Động",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trụ sở Quốc Hội",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trụ sở Radio Sài Gòn",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trụ sở Sở Công An Trà Vinh",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trụ sở Tổng Công Ty Thép Đường Láng Hạ",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trụ sở tổng cục thống kê",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trụ sở UBND tỉnh Lạng Sơn",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trụ sở ủy ban hành chính tỉnh Nghĩa Lộ",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trụ sở Viện Hóa học",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trụ sở Viện Tâm thần Trung Ương",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trụ sở Viện Toán học",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trung cấp Kiến trúc - Học Viện Thủy Lợi",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trung học Ernst Thalmann",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trung hoc kiểu mẫu Thủ Đức",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trung tâm Giáo dục Y Khoa – Đại học Y Khoa Sài Gòn",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trung tâm hội nghị quốc tế",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trung tâm nghệ thuật quốc gia Indira Ghandhi",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trung tâm nghiên cứu nguyên tử Đà Lạt",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trung tâm thiết kế bộ đại học và THCN",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trường đại học mỹ thuật công nghiệp Hà Nội",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trường Đại học Sư Phạm Huế",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trường Đảng Nguyễn Ái Quốc",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trường dạy nghề Đà Nẵng",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trường dạy tiếng Anh Hội Việt Mỹ đường Mạc Đĩnh Chi",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trường trung cấp Lasan Mossard",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trường trung học Kỹ Thuật Quy Nhơn",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trường trung học kỹ thuật Vĩnh Long",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trường trung học Sư phạm Quy Nhơn",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trường tư thục Lê Quý Đôn",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trường văn hóa nghệ thuật Quảng Ninh",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Trường viết văn Nguyễn Du",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Tượng đài viện trợ quốc tế",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "UBND Quận Đống Đa",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Ủy ban nhân dân thành phố Hà Nội",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Ủy ban nhân dân thành phố Hà Nội - Cánh trái",
-    "col2": "1986",
-    "col3": "Hà Nội",
-    "col4": "Phá hủy",
-    "content": "TBC"
-  },
-  {
-    "col1": "Ủy ban nhân dân thành phố Hà Nội - Cổng Trần Nguyên Hãn",
-    "col2": "1990",
-    "col3": "Hà Nội",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Ủy ban nhân dân thành phố Hà Nội - Công trình chính",
-    "col2": "1986",
-    "col3": "Hà Nội",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Văn phòng Diethelm & Cie",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Văn phòng Thượng viện đường Nam Kỳ Khởi Nghĩa",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Viện đại học Vạn Hạnh",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  },
-  {
-    "col1": "Vườn hoa Lenin",
-    "col2": "-",
-    "col3": "-",
-    "col4": "Xây dựng",
-    "content": "TBC"
-  }
+[ { "id": "", "title": "Báo Kiến Thiết", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bảo tàng Bạch Đằng Quảng Ninh", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bảo tàng biên phòng", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bảo tàng cổ vật Nam Định", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bảo tàng dân tộc học", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bảo tàng địa chất Việt Nam", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bảo tàng Hồ Chí Minh", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bảo tàng Hùng Vương", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/86f5228b7d00eb0afc597515b4ea94aefa811c52d31cee27e7deac08ef71796d/Bo-tng-Hng-Vng-01.JPG" },
+ { "id": "", "title": "Bảo Tàng Kim Liên", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bảo tàng Louis Finot (Bảo tàng lịch sử quốc gia)", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bảo tàng Phòng không Hà Nội", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bảo tàng phụ nữ miền Nam", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bảo tàng Tôn Đức Thắng", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/0a56caa7691748ef74471d7af8a508fa02884907c72bc1f9b0b930689a45073e/Bo-tng-Tn-c-Thng-01.png" },
+ { "id": "", "title": "Bảo tàng văn hóa Hòa Bình", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bảo Tàng Việt Bắc", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bảo tàng Võ Nhai", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bệnh viện 167 Phùng Hưng", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bệnh viện 198 Hà Nội", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bệnh Viện 500 giường Thanh Nhàn", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bệnh viện An Bình", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bệnh viện hữu nghị Việt Nam - Cu Ba", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bệnh Viện Hữu Nghị Việt Nam- Cu Ba (Quảng Bình)", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bệnh viện mắt Trung Ương", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bệnh Viện Nguyễn Văn Học", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bệnh viện quốc tế Hà Nội", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bệnh viện Rene Robin (Bạch Mai)", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bệnh viện Vì Dân", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bình minh trang", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bưu điện Bà Rịa Vũng Tàu", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bưu Điện Quảng Ninh", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Bưu điện thành phố Hà Nội", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Cải tạo Bách hóa tổng hợp", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Cải tạo chợ Bến Thành", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Cải tạo ga Hàng Cỏ", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Cải tạo khách sạn Dân Chủ", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Cải tạo mặt đứng Cinema Palace", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Câu lạc bộ Ba Đình", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Cầu Thăng Long", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Chỉnh sửa rạp Eden Tràng Tiền", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Chợ An Đông", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Chợ Bà Chiểu", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Chợ Bến Thành (Đồ án)", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Chợ Đà Lạt ( Mới)", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Chợ Đà Lạt (Cũ)", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Chợ Đà Lạt (Mới) mở rộng", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Chợ Đầm Nha Trang", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Chợ Đông Ba (Mới)", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Chợ Đông Hà", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Chợ Hôm Đức Viên", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Chợ Lớn Tháp Mười 1930s", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/357394a423c15b2af699e332553a924012462bdaa9344f7cfa6e19683460d0df/Ch-Ln-Thp-Mi-1930s-01.jpg" },
+ { "id": "", "title": "Chợ Móng Cái Quảng Ninh", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Chợ Vinh", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/b77bc82bee75bbacf60a833fe5652e85fed586a1711b40d77ee1399d9514bac0/Ch-Vinh-01.jpg" },
+ { "id": "", "title": "Chợ xóm chiếu", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Chùa Bà Chúa Xứ Châu Đốc", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Chùa Cổ Lâm Quảng Nam", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Chùa một cột Sài Gòn", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Chùa Phổ Quang", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Chùa Quán Sứ", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Chùa Vĩnh Nghiêm", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Chùa Xá Lợi", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/c20612ba649f1302acae3e610db10326d8b32f6329e4f656363e9b7ff3a18430/Cha-X-Li-01.png" },
+ { "id": "", "title": "Chung cư 12 Võ Văn Kiệt", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Công Viên Thống Nhất", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Crazy House", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Cư xá 14-22 Lý Chính Thắng", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Cư Xá Lam Sơn", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Cư xá Nguyễn Văn Trỗi", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Cư xá Thanh Đa", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Cửa khẩu quốc tế Móng Cái", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Cung thiếu nhi Hà Nội", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Cung Văn hóa Hữu Nghị Việt Xô", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Đại học Huế", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Đại học kiến trúc Hồ Chí Minh (Công trình)", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Đại học Nông – Lâm – Súc", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Đại học Sài Gòn", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Đại học Thương Nghiệp", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Đài phát thanh truyền hình Hà Nội", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Đài phát thanh truyền hình Yên Bái", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Đại sứ quán Việt Nam (Paris)", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Đài Tiếng nói nhân dân TP.HCM", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Đài Tổ quốc ghi công", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Đài tưởng niệm liệt sĩ Bắc Sơn", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Đài tưởng niệm liệt sĩ tỉnh Bắc Ninh", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Đài tưởng niệm liệt sĩ Tuyên Quang", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Đài tưởng niệm Núi Nhạn", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Đầm ếch La Grenouilere", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Đền thờ Bác Hồ ở Pác Bó", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Đền thờ Trần Hưng Đạo", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Dinh Độc Lập", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Ga T1 sân bay Nội Bài", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Giảng đường 400 chỗ trường Nguyễn Ái Quốc", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Giảng đường Đại học Cần Thơ", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Giáo Hoàng Học Viện Thánh Pio X", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/1eeed35324ac726474e6631470b1abf41c90a349dc8fb744b10e0a138806182a/Gio-hong-hc-vin-thnh-Pio-X-01.jpg" },
+ { "id": "", "title": "Học viện thủy lợi", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Hội chợ Đà Lạt", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Hội quán thông thiên học Việt Nam", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Hội trường B Đại học đại cương", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Hội trường Ba Đình", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Hội trường Rùa", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Hội trường tỉnh ủy Cần Thơ", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Hội trường trung cập Thương Nghiệp Mai Dịch", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khách sạn Bạch Đằng", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khách sạn Caravelle", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khách sạn Crystal Palace", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khách sạn Đồ Sơn Bộ Xây Dựng", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khách sạn Hà Nội - Khu Giảng Võ", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/756d8333d66489e65a1e924c62a3f59f0c85036f7097b8bcf4911a96a6ed9d0b/Khch-sn-H-Ni---Khu-Ging-V-01.jpg" },
+ { "id": "", "title": "Khách sạn Hải Phòng", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khách Sạn Hương Giang I", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khách sạn Hương Giang II", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khách sạn Lang Biang", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khách Sạn Lê Lợi", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khách sạn Mộng Đẹp Modern", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/341f13f7ffa633dc66622860779691c479a5a2d77a50fa720d3628a72cf79393/54524825_2250778784989469_7228836469232631808_n.jpg" },
+ { "id": "", "title": "Khách sạn Ngọc Mỹ", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khách sạn Phương Đông", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khách sạn Rex", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khách sạn T.78", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khách sạn Thắng Lợi", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khách sạn Thùy Dương Vũng Tàu", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khoa Pháp Đại học Quốc Gia Việt Nam", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Không gian Alibaba", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khu lưu niệm Thủ tướng Võ Văn Kiệt", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khu Ngoại giao đoàn Vạn Phúc", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khu nhà ở Kim Liên", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khu nhà ở ngoại giao đoàn Vạn Phúc II", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khu nhà ở Nguyễn Công Trứ", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khu nhà ở tấm lớn Thanh Xuân Bắc", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Khu văn công quân đội Mai Dịch", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Kiến trúc Những vấn đề lý luận và thực tiễn", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "KS Saigon Lodge", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "KTT Giảng Võ", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Kỹ nghệ súc sản Vissan", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Lăng Chủ Tịch", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Lăng mộ vua Mohammed V", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Lễ đài Ba Đình 1955", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Lễ đài Ba Đình 1960", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Lịch sử kiến trúc Việt Nam", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Lữ quán thanh niên", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/e081e537c22eb473dd0579bdbe6b95f60e2a095e01d4bfd769e4c55edc2dbc7e/L-qun-Thanh-nin-v-Lao-ng--Lt-01.png" },
+ { "id": "", "title": "Miếu bà chúa xứ", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Ngân hàng Đông Dương", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Ngân hàng Đông Dương Hà Nội", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Ngân hàng Việt Nam Thương Tín", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nghĩa trang liệt sĩ Đà Lạt", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nghĩa trang liệt sĩ Móng Cái", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nghĩa trang quốc gia Đông Hà", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà Ánh Sáng", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà bảo tàng tỉnh Hải Hưng", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà biểu diễn 700 chỗ Cung thiếu nhi Đà Lạt", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà C2 Khu nhà ở Phương Liệt", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà hàng bánh tôm Hồ Tây", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà hàng Thủy Tạ", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/f1ef576a0fb6e70d063a436691783377e6d83c98d2d6e06f4a0e063cc6aa5225/Nh-Thy-T-01.png" },
+ { "id": "", "title": "Nhà hát chèo Hà Nội", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà hát Tân Phú Đồng Nai (Đồ án)", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà hát Trưng Vương Đà Nẵng", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà họp Hội Đồng Chính Phủ", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà khách bộ ngoại giao", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà khách chính phủ Lê Thạch", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/935c347fa39944368d7430c4fc28b5cb7a37fae35204a093dcc97f8bbae00143/Nh-khch-chnh-ph-L-Thch-01.jpg" },
+ { "id": "", "title": "Nhà làm việc công ty Điện Lực I", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà làm việc Đoàn 9", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà luyện tập và thi đấu TDTT Khánh Hòa", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà máy dệt Vinatexco (Thắng Lợi)", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà máy xử lý nước Thủ Đức", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà nghỉ Công đoàn Bãi Cháy", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà nghỉ Công đoàn Đồ sơn", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà nghỉ Công đoàn Hạ Long", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà nghỉ Hồ Núi Cốc", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà ở cho cộng đồng văn hóa thủy cư Bồ Lô", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà sàn Bác Hồ", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà tang lễ quân y 103", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà thi đấu Nguyễn Tri Phương Đà Nẵng", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà thi đấu và luyện tập thể dục thể thao Hà Nội", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà thờ Cửa Bắc", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà thờ giáo xứ Liên Khương", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà thờ Phủ Cam", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà thờ tin lành", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà Trăm Mái", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà trẻ Anh Đào", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà triển lãm mỹ thuật 16 Ngô Quyền", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà truyền thống Quân Đội Gia Lai", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà U trường Đại học kiến trúc Hà nội", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà văn hóa công nhân mỏ Quảng Ninh", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà văn hoá lao động Liên Xô (Đồ án)", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhà văn hóa Lao động Thanh Hóa", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nhiệt điện Phả Lại", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Nội San Kiến Trúc", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Quần thể nhà an dưỡng Sầm Sơn Thanh Hóa", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Quần thể nhà ở Nhiệt Điện Hòa Bình", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Quy hoạch Đà Lạt", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Quy hoạch Đà Lạt 1932-1933", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Quy hoạch Hà Nội 1924", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Quy hoạch Hà Nội 1934 (Đồ Án)", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Quy hoạch Hà Nội 1959", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Quy hoạch Hà Nội 1978", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Quy hoạch Hồ Gươm", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Quy hoạch học viện kỹ thuật quân sự 1960s", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Quy hoạch khu trung tâm Hà Nội", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Quy hoạch Phnom Penh", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Quy hoạch Phnom Penh 1933", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Quy hoạch Quảng trường Ba Đình", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Quy hoạch Sài Gòn", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Quy hoạch Vientiane 1935", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Rạp chiếu phim Trần Hưng Đạo (Huế)", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Rạp Công Nhân cải tạo", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Rạp Minh Hiên - Long Xuyên", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/d9e31535401ab3ff1b2e010505930bbb674e670e3760ac2515960aa44cc08e4a/Rp-Minh-Hin---Long-Xuyn---1960s-01.jpg" },
+ { "id": "", "title": "Salesian Don Bosco Đà Lạt", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Sân bay Nội Bài", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Sân vận động Chi Lăng Huế", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/b2cad9338a18ad092ce9309677687916ec6d37b408b40fa5332e4c4f96f9cc3f/Sn-vn-ng-Chi-Lng-Hu-01.jpg" },
+ { "id": "", "title": "Sân vận động Thái Nguyên (cũ)", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Sáng dội miền Nam", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Sở chỉ huy quân sự tỉnh Đắc Lắc", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Sở giao thông vận tải Bình Định", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/23d01962a1b296e9c45447f3e11297fbe0885eadf22ec4c866ce40bd6bb7b034/S-giao-thng-vn-ti-Bnh-nh-01.jpg" },
+ { "id": "", "title": "Thư viện Ninh Bình", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Thư viện Quốc Gia Sài Gòn", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/b548cdeca555476b484fb10ba253530af5b8c46f314ebffb7575992bce02d32b/Th-vin-Quc-Gia-Si-Gn-01.png" },
+ { "id": "", "title": "Tiểu khu Bách Khoa", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Tòa nhà American Dispensary", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/8392fd3e0915791c6b589103469cc463c496a7db2b2a1d66b089cbb967769987/Ta-nh-American-Dispensary-01.jpg" },
+ { "id": "", "title": "Tòa nhà công ty đường Khánh Hội", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Tòa nhà hải quân quốc gia", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Tòa nhà Hàm Cá Mập", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Toà nhà La Tulip Rouge Đà Lạt", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/f29aec3acceb37804d209ef6a907772121f4d2a6dea69f3f726b82df94132dd7/To-nh-La-Tulip-Rouge--Lt-01.jpg" },
+ { "id": "", "title": "Tòa nhà United States Information Service USIS", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/c14e3dc6ff694353c5986021ca36e1eff6ffc77aa71ca8c1ccd41192fb2cc3fe/Ta-nh-United-States-Information-Service-USIS-01.jpg" },
+ { "id": "", "title": "Tòa nhà VAR", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Toàn nhà PTT", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Tồn tại hay không tồn tại", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Tổng lãnh sự quán Anh", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Tổng lãnh sự quán Thái Lan", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Tổng nha kiến thiết Sài Gòn (công trình)", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trụ sở Bộ GTVT Đường Trần Hưng Đạo", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trụ sở công ty dược Thái Nguyên", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trụ sở Đài Tiếng nói Việt Nam", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trụ sở Hàng không Việt Nam (Sài Gòn)", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trụ sở liên cơ quan Vân Hồ", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trụ sở Ngân hàng Bắc Thái", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trụ Sở nhà xuất bản Lao Động", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trụ sở Quốc Hội", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trụ sở Radio Sài Gòn", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trụ sở Sở Công An Trà Vinh", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trụ sở Tổng Công Ty Thép Đường Láng Hạ", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trụ sở tổng cục địa chất Hà Nội", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/0e088f3c0a5b8e8fbd56753db1472164db670160d2af368c48ccd2344482a7a7/Tr-s-tng-cc-a-cht-H-Ni-01.png" },
+ { "id": "", "title": "Trụ sở tổng cục thống kê", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trụ sở UBND tỉnh Lạng Sơn", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trụ sở ủy ban hành chính tỉnh Nghĩa Lộ", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trụ sở Viện Hóa học", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trụ sở Viện Tâm thần Trung Ương", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trụ sở Viện Toán học", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trung cấp Kiến trúc - Học Viện Thủy Lợi", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trung học Ernst Thalmann", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/c4c24750afbebcd837993d94b198962eea93c0012ac8431b57b5e8aec20ae7d0/Trung-hc-Ernst-Thalmann-01.jpg" },
+ { "id": "", "title": "Trung hoc kiểu mẫu Thủ Đức", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trung tâm đo phông thiên nhiên Hà nội", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trung tâm Giáo dục Y Khoa – Đại học Y Khoa Sài Gòn", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trung tâm hội nghị quốc tế", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trung tâm nghệ thuật quốc gia Indira Ghandhi", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trung tâm nghiên cứu nguyên tử Đà Lạt", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trung tâm nhiệt đới Việt Nga", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trung tâm tập huấn nghiệp vụ nhà khách Cửa Lò", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trung tâm thiết kế bộ đại học và THCN", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trung tâm triển lãm Văn hóa Nghệ Thuật Việt Nam", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/914bacc1393637d2a5c01cdca46dcbebab8107386bb8a14e099fb286651fd29d/Trung-tm-trin-lm-Vn-ha-Ngh-Thut-Vit-Nam-01.JPG" },
+ { "id": "", "title": "Trường đại học mỹ thuật công nghiệp Hà Nội", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trường Đại học Sư Phạm Huế", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trường Đảng Nguyễn Ái Quốc", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trường dạy nghề Đà Nẵng", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trường dạy tiếng Anh Hội Việt Mỹ đường Mạc Đĩnh Chi", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trường Notre dame du Rosaire", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/f7fbe788710a2575edba0149a33c8a756d4a66ea667dfd676008f825c490484c/Notre-Dame-du-Rosaire-H-Ni-01.jpg" },
+ { "id": "", "title": "Trường sĩ quan lục quân I nhà học trung tâm ", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trường trung cấp Lasan Mossard", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/6ce69195f379cd18a0feb896284ea0eafe62bd3377dcb9d2df8a33ecf8b6988b/Trng-trung-cp-Lasan-Mossard-04.jpg" },
+ { "id": "", "title": "Trường trung học Kỹ Thuật Quy Nhơn", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trường trung học kỹ thuật Vĩnh Long", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trường trung học Sư phạm Quy Nhơn", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trường tư thục Lê Quý Đôn", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trường văn hóa nghệ thuật Quảng Ninh", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Trường viết văn Nguyễn Du", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Tượng đài viện trợ quốc tế", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/26491dd7e82b4b2afb36272f688b4198c075e1fbce840b5ac964d05f236f03bd/Tng-i-vin-tr-quc-t-01.jpg" },
+ { "id": "", "title": "UBND Quận Đống Đa", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "UBND tỉnh Phú Thọ", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/4b394be711b2f4a0535b8e3c5e1d351775541965b0e3305db2e3a89f2ef75594/UBND-tnh-Ph-Th-01.JPG" },
+ { "id": "", "title": "Ủy ban nhân dân thành phố Hà Nội", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Văn phòng Diethelm & Cie", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Văn phòng Thượng viện đường Nam Kỳ Khởi Nghĩa", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Viện bỏng quốc gia", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Viện đại học Vạn Hạnh", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/f0fb858671627ac5ab2b2b4b3f1e7edeebfe2c525cf81decec5f573c6f580bdd/i-hc-Vn-Hnh-01.jpg" },
+ { "id": "", "title": "Viện hải dương học Nha Trang", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/1d37c1d5e8653818ae4d4164a5fe3ded59cb09a242aad3885951f8ca0cd628d5/Vin-Hi-dng-hc-Nha-Trang-01.jpg" },
+ { "id": "", "title": "Viện kỹ thuật quân sự phòng không", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Viện Pasteur Hà Nội", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/5b7f7a7f1d599136509bb18d2a25063b5f0d775622d868500f1767de5150ef6b/Vin-Pasteur-H-Ni-01.jpg" },
+ { "id": "", "title": "Viện vệ sinh phòng dịch quân đội Hà Nội ", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Vườn hoa Lenin", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Xây Dựng Mới", "region": "", "typology": "", "status": "", "year": "", "image": "" }
 ]
