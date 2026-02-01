@@ -1,4 +1,5 @@
-[ { "id": "", "title": "Báo Kiến Thiết", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+[
+  { "id": "", "title": "Báo Kiến Thiết", "region": "", "typology": "", "status": "", "year": "", "image": "" },
  { "id": "", "title": "Bảo tàng Bạch Đằng Quảng Ninh", "region": "", "typology": "", "status": "", "year": "", "image": "" },
  { "id": "", "title": "Bảo tàng biên phòng", "region": "", "typology": "", "status": "", "year": "", "image": "" },
  { "id": "", "title": "Bảo tàng cổ vật Nam Định", "region": "", "typology": "", "status": "", "year": "", "image": "" },
@@ -279,5 +280,6 @@
  { "id": "", "title": "Viện Pasteur Hà Nội", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/5b7f7a7f1d599136509bb18d2a25063b5f0d775622d868500f1767de5150ef6b/Vin-Pasteur-H-Ni-01.jpg" },
  { "id": "", "title": "Viện vệ sinh phòng dịch quân đội Hà Nội ", "region": "", "typology": "", "status": "", "year": "", "image": "" },
  { "id": "", "title": "Vườn hoa Lenin", "region": "", "typology": "", "status": "", "year": "", "image": "" },
- { "id": "", "title": "Xây Dựng Mới", "region": "", "typology": "", "status": "", "year": "", "image": "" }
+ { "id": "", "title": "Xây Dựng Mới", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Tòa nhà hiệu sách kết nghĩa Hà Nội", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/330c3186312b90658482513787833d0949ab1fc839757783174be5e86317e551/Ta-nh-hiu-sch-kt-ngha-H-Ni-01.jpg" }
 ]
