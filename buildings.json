@@ -1,5 +1,5 @@
 [
-   { "id": "", "title": "Báo Kiến Thiết", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+    { "id": "", "title": "Báo Kiến Thiết", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
  { "id": "", "title": "Bảo tàng Bạch Đằng Quảng Ninh", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
  { "id": "", "title": "Bảo tàng biên phòng", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
  { "id": "", "title": "Bảo tàng cổ vật Nam Định", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
@@ -35,7 +35,7 @@
  { "id": "", "title": "Cải tạo ga Hàng Cỏ", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
  { "id": "", "title": "Cải tạo khách sạn Dân Chủ", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
  { "id": "", "title": "Cải tạo mặt đứng Cinema Palace", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
- { "id": "", "title": "Câu lạc bộ Ba Đình", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Câu lạc bộ Ba Đình", "architect": "Nguyễn Văn Ninh", "region": "Hà Nội", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/22b397e2edfefedd5e32e7cd840ce11f59a7d3f063cd5d69d3915ef247f6a619/Cu-lc-b-Ba-nh-01.jpg" },
  { "id": "", "title": "Cầu Thăng Long", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
  { "id": "", "title": "Chỉnh sửa rạp Eden Tràng Tiền", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
  { "id": "", "title": "Chợ An Đông", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
@@ -48,7 +48,7 @@
  { "id": "", "title": "Chợ Đông Ba (Mới)", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
  { "id": "", "title": "Chợ Đông Hà", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
  { "id": "", "title": "Chợ Hôm Đức Viên", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
- { "id": "", "title": "Chợ Lớn Tháp Mười 1930s", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/357394a423c15b2af699e332553a924012462bdaa9344f7cfa6e19683460d0df/Ch-Ln-Thp-Mi-1930s-01.jpg" },
+ { "id": "", "title": "Chợ Lớn Tháp Mười 1930s", "architect": "-", "region": "Sài gòn", "typology": "Chợ", "status": "Phá hủy", "year": "1930s", "image": "https://freight.cargo.site/t/original/i/357394a423c15b2af699e332553a924012462bdaa9344f7cfa6e19683460d0df/Ch-Ln-Thp-Mi-1930s-01.jpg" },
  { "id": "", "title": "Chợ Móng Cái Quảng Ninh", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
  { "id": "", "title": "Chợ Vinh", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/b77bc82bee75bbacf60a833fe5652e85fed586a1711b40d77ee1399d9514bac0/Ch-Vinh-01.jpg" },
  { "id": "", "title": "Chợ xóm chiếu", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
@@ -211,10 +211,10 @@
  { "id": "", "title": "Thư viện Ninh Bình", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
  { "id": "", "title": "Thư viện Quốc Gia Sài Gòn", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/b548cdeca555476b484fb10ba253530af5b8c46f314ebffb7575992bce02d32b/Th-vin-Quc-Gia-Si-Gn-01.png" },
  { "id": "", "title": "Tiểu khu Bách Khoa", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
- { "id": "", "title": "Tòa nhà American Dispensary", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/8392fd3e0915791c6b589103469cc463c496a7db2b2a1d66b089cbb967769987/Ta-nh-American-Dispensary-01.jpg" },
+ { "id": "", "title": "Tòa nhà American Dispensary", "architect": "Louis Chauchon", "region": "Sài Gòn", "typology": "Văn phòng", "status": "Thay đổi đáng kể", "year": "1935", "image": "https://freight.cargo.site/t/original/i/8392fd3e0915791c6b589103469cc463c496a7db2b2a1d66b089cbb967769987/Ta-nh-American-Dispensary-01.jpg" },
  { "id": "", "title": "Tòa nhà công ty đường Khánh Hội", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
  { "id": "", "title": "Tòa nhà hải quân quốc gia", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
- { "id": "", "title": "Tòa nhà Hàm Cá Mập", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Tòa nhà Hàm Cá Mập", "architect": "Tạ Xuân Vạn", "region": "Hà Nội", "typology": "Văn phòng", "status": "Phá hủy", "year": "1986", "image": "" },
  { "id": "", "title": "Toà nhà La Tulip Rouge Đà Lạt", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/f29aec3acceb37804d209ef6a907772121f4d2a6dea69f3f726b82df94132dd7/To-nh-La-Tulip-Rouge--Lt-01.jpg" },
  { "id": "", "title": "Tòa nhà United States Information Service USIS", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/c14e3dc6ff694353c5986021ca36e1eff6ffc77aa71ca8c1ccd41192fb2cc3fe/Ta-nh-United-States-Information-Service-USIS-01.jpg" },
  { "id": "", "title": "Tòa nhà VAR", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
@@ -280,5 +280,8 @@
  { "id": "", "title": "Viện Pasteur Hà Nội", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/5b7f7a7f1d599136509bb18d2a25063b5f0d775622d868500f1767de5150ef6b/Vin-Pasteur-H-Ni-01.jpg" },
  { "id": "", "title": "Viện vệ sinh phòng dịch quân đội Hà Nội ", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
  { "id": "", "title": "Vườn hoa Lenin", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
- { "id": "", "title": "Xây Dựng Mới", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" }
+ { "id": "", "title": "Xây Dựng Mới", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "" },
+ { "id": "", "title": "Tòa nhà hiệu sách kết nghĩa Hà Nội", "architect": "", "region": "", "typology": "", "status": "", "year": "", "image": "https://freight.cargo.site/t/original/i/330c3186312b90658482513787833d0949ab1fc839757783174be5e86317e551/Ta-nh-hiu-sch-kt-ngha-H-Ni-01.jpg" },
+ { "id": "", "title": "Trường Thăng Long 1934", "architect": "Nguyễn Cao Luyện", "region": "", "typology": "Trường học", "status": "Concept", "year": "1934", "image": "https://freight.cargo.site/t/original/i/d34fb5a3e9406bfe592cbdd02f2deea9054ab2ce2a7967a7fc3dd558ce4f4c83/Trng-Thng-Long-1934--01.jpg" },
+ { "id": "", "title": "Bảo tàng khảo cổ 1930s", "architect": "Jacques Lagisquet", "region": "", "typology": "Bảo tàng", "status": "Phá hủy", "year": "1937", "image": "https://freight.cargo.site/t/original/i/3e8a92f0358cdce04c85a172bda3405126edfb69433551fdc7f28150cd17ec68/Bo-tng-kho-c-1930s-01.png" }
 ]
